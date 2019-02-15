@@ -10,7 +10,6 @@ namespace task4
     {
         static void Main(string[] args)
         {
-
             Console.Write("write the level   ");
             int a = int.Parse(Console.ReadLine());
             int[,] arr = new int[a, a];
